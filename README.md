@@ -1,7 +1,7 @@
 <!-- My Banner -->
 <img align="center" src="images/myGitHubProfileBanner.gif"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=15&duration=3000&pause=1000&color=EF5A7D&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+SG+Prakash's+Github+Profile+!!!" width="100%" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=500&size=15&duration=3000&pause=1000&color=EF5A7D&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+SG+Prakash's+Github+Profile+!!!" width="100%" alt="Typing SVG" /></a>
 
 <!-- About Me -->
 
