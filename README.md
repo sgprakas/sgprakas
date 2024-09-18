@@ -1,6 +1,8 @@
 <!-- My Banner -->
 <img align="center" src="images/myGitHubProfileBanner.gif"/>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=15&duration=3000&pause=1000&color=EF5A7D&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+SG+Prakash's+Github+Profile+!!!" width="100%" alt="Typing SVG" /></a>
+
 <!-- About Me -->
 
 # About Me
@@ -62,3 +64,15 @@ You can reach out to me on the following platforms:
     <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50" width="80" alt="Email">
   </a>
 </p>
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgprakas&show_icons=true&theme=radical)
+
+## 🔝 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgprakas&layout=compact&theme=radical)
+
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sgprakas&theme=radical)](https://git.io/streak-stats)
