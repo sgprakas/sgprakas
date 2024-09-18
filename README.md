@@ -49,16 +49,16 @@ I’m excited about what the future holds and can’t wait to tackle the next bi
 You can reach out to me on the following platforms:
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/gnana-prakash-s-72396a199/" target="_blank">
     <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50" width="80" alt="LinkedIn">
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/sgprakas" target="_blank">
     <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" height="50" width="80" alt="GitHub">
   </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://x.com/SanjayP77183076" target="_blank">
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="50" width="80" alt="X">
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:sgp.prakas@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50" width="80" alt="Email">
   </a>
 </p>
