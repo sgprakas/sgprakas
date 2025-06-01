@@ -17,17 +17,26 @@ I’ve always had a love for **learning**. Whether it's experimenting with the l
 
 In addition to my full-stack expertise, I have a keen interest in **DevOps**. I believe that understanding how applications are deployed, monitored, and scaled is just as important as developing them. My current focus is on mastering DevOps tools and methodologies, particularly in **containerization**, **CI/CD pipelines**, and **infrastructure as code**.
 
-### 💻 Golang: My New Love
+### 🛠️ Hobbies: Building Projects
 
-Lately, I’ve been diving into **Golang** and loving its simplicity and performance. It’s a powerful language that allows me to write highly concurrent and scalable applications, perfect for modern cloud-based environments.
+When I’m not working, you’ll likely find me tinkering with **side projects**. Whether it’s a small app or an automation tool, building things from scratch is my way of keeping my skills sharp and exploring new ideas. These projects fuel my creativity and provide a sandbox where I can experiment with the latest technologies.
 
-### ☁️ Cloud Skills
+## 📚 What I’m Learning
 
-I am actively learning **AWS** (Amazon Web Services) to further enhance my cloud computing knowledge. Currently, I’m familiar with **S3**, **EC2**, and **Lambda**, and I’m continually expanding my expertise in cloud architecture to help build scalable, resilient applications. As I progress, I aim to leverage the full power of AWS to optimize application performance and reduce infrastructure costs.
+### 🧠 AI Engineering
+- Understanding the **architecture and internals** of LLMs
+- Using LLMs to build **AI agents** and **automated workflows**
+- Exploring prompt engineering, tool use, and multi-agent systems
 
-<!-- ### 🛠️ Hobbies: Building Projects
+### 🏗️ System Design & Architecture
+- Building **modular monorepo structures** using TypeScript
+- Keeping separation of concerns across core, API, and execution layers
+- Designing systems for **testability, extensibility, and developer experience**
 
-When I’m not working, you’ll likely find me tinkering with **side projects**. Whether it’s a small app or an automation tool, building things from scratch is my way of keeping my skills sharp and exploring new ideas. These projects fuel my creativity and provide a sandbox where I can experiment with the latest technologies. -->
+### 💡 TypeScript Mastery
+- Advanced types, utility types, generics
+- Building reusable decorators and DI containers (learning via tsyringe)
+- Type-safe interfaces across multiple packages
 
 ## 🧰 Tech Stack
 
