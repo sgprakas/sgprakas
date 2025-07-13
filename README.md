@@ -48,12 +48,12 @@ You can reach out to me on the following platforms:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sgprakas/" target="_blank">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50" width="80" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" width="80" alt="LinkedIn">
   </a>
   <a href="https://github.com/sgprakas" target="_blank">
     <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" height="50" width="80" alt="GitHub">
   </a>
-  <a href="https://x.com/SanjayP77183076" target="_blank">
+  <a href="https://x.com/sgp_prakas" target="_blank">
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="50" width="80" alt="X">
   </a>
   <a href="mailto:sgp.prakas@gmail.com" target="_blank">
