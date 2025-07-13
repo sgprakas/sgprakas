@@ -13,10 +13,6 @@ I am a **passionate full stack developer** with a deep enthusiasm for solving co
 
 I’ve always had a love for **learning**. Whether it's experimenting with the latest JavaScript frameworks or architecting server-side applications, I enjoy building projects that test my skills and allow me to create something meaningful. This drive has helped me become proficient in both **front-end** and **back-end** development, delivering full-featured applications from concept to completion.
 
-### 🚀 DevOps Enthusiast
-
-In addition to my full-stack expertise, I have a keen interest in **DevOps**. I believe that understanding how applications are deployed, monitored, and scaled is just as important as developing them. My current focus is on mastering DevOps tools and methodologies, particularly in **containerization**, **CI/CD pipelines**, and **infrastructure as code**.
-
 ### 🛠️ Hobbies: Building Projects
 
 When I’m not working, you’ll likely find me tinkering with **side projects**. Whether it’s a small app or an automation tool, building things from scratch is my way of keeping my skills sharp and exploring new ideas. These projects fuel my creativity and provide a sandbox where I can experiment with the latest technologies.
@@ -27,16 +23,6 @@ When I’m not working, you’ll likely find me tinkering with **side projects**
 - Understanding the **architecture and internals** of LLMs
 - Using LLMs to build **AI agents** and **automated workflows**
 - Exploring prompt engineering, tool use, and multi-agent systems
-
-### 🏗️ System Design & Architecture
-- Building **modular monorepo structures** using TypeScript
-- Keeping separation of concerns across core, API, and execution layers
-- Designing systems for **testability, extensibility, and developer experience**
-
-### 💡 TypeScript Mastery
-- Advanced types, utility types, generics
-- Building reusable decorators and DI containers (learning via tsyringe)
-- Type-safe interfaces across multiple packages
 
 ## 🧰 Tech Stack
 
@@ -73,15 +59,3 @@ You can reach out to me on the following platforms:
     <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50" width="80" alt="Email">
   </a>
 </p>
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgprakas&show_icons=true&theme=radical)
-
-## 🔝 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgprakas&layout=compact&theme=radical)
-
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sgprakas&theme=radical)](https://git.io/streak-stats)
