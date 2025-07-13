@@ -34,10 +34,11 @@ Here are some of the tools and technologies that I work with:
 -   **DevOps**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
 -   **Cloud Platforms**: ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) (Familiar with - S3, EC2, Lambda)
 -   **Other Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+-   **AI Interests**: LLM, Prompt Engineering, AI Agents
 
 ## 🎯 My Vision
 
-I’m constantly striving to **build great stuff**—software that is functional, efficient, and delightful to use. My ultimate goal is to keep growing, both as a developer and as a DevOps enthusiast, to contribute to projects that push the boundaries of what’s possible in technology.
+I’m constantly striving to **build great stuff**—software that is functional, efficient, and delightful to use. My ultimate goal is to keep growing, both as a developer and someone exploring AI, to contribute to projects that push the boundaries of what’s possible in technology.
 
 I’m excited about what the future holds and can’t wait to tackle the next big challenge!
 
