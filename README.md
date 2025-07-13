@@ -47,7 +47,7 @@ I’m excited about what the future holds and can’t wait to tackle the next bi
 You can reach out to me on the following platforms:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gnana-prakash-s-72396a199/" target="_blank">
+  <a href="https://www.linkedin.com/in/sgprakas/" target="_blank">
     <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50" width="80" alt="LinkedIn">
   </a>
   <a href="https://github.com/sgprakas" target="_blank">
